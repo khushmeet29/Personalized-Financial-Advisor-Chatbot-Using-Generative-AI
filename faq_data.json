@@ -1,0 +1,12 @@
+{
+  "apr": "APR (Annual Percentage Rate) is the yearly cost of borrowing without compounding. APY (Annual Percentage Yield) includes compounding. For revolving credit, the APR indicates the interest rate applied to your balance; total paid depends on compounding and fees.",
+  "apy": "APY reflects the effective annual return when interest compounds. If your savings account pays 4% APY, the nominal monthly rate is roughly 0.04/12 and compounding yields the stated APY over a year.",
+  "50/30/20": "The 50/30/20 guideline allocates ~50% of take-home pay to needs, 30% to wants, and 20% to savings/debt. Adjust based on goals and fixed obligations.",
+  "emergency fund": "An emergency fund typically covers 3\u20136 months of essential expenses (rent, utilities, groceries, transport). Start with a 1-month micro-goal if cash is tight.",
+  "snowball": "Debt snowball: pay the smallest balance first (while paying minimums on others) to get quick wins; after each payoff, roll freed-up payment to the next balance.",
+  "avalanche": "Debt avalanche: focus extra payments on the highest APR first (while paying minimums on others) to minimize total interest paid.",
+  "compound interest": "Compound interest means you earn interest on prior interest. Future value with monthly compounding: FV = P*(1+r/12)^(12*t).",
+  "roth vs traditional": "Roth: contribute post-tax, withdrawals are tax-free if qualified. Traditional: contribute pre-tax, pay taxes on withdrawal. Choice depends on current vs future tax rates and eligibility rules.",
+  "diversification": "Diversification spreads risk across assets so that one holding's loss is less likely to sink the whole portfolio. This is an educational concept here; no recommendations are provided.",
+  "credit utilization": "Credit utilization = balance / credit limit. Keeping it generally below ~30% may help credit health; pay on time to avoid late fees and interest."
+}
