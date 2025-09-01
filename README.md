@@ -1,5 +1,5 @@
 
-# Personalized Financial Advisor — Demo
+# Personalized Financial Advisor
 
 A **one-file Streamlit app** that demonstrates a personalized financial advisor chatbot using an **open-source LLM** (google/flan-t5-base), a tiny **keyword-based context retriever**, and **three calculators** (budget, debt, savings).
 
